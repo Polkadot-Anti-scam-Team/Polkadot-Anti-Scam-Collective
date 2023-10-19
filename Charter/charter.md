@@ -6,4 +6,3 @@ TO-DO
 - [ ] Operational Rules (entry, promotions/demotion, voting, etc)
 - [ ] Summary of Ranks
 - [ ] Details of Individual Rank
-- [ ] 
