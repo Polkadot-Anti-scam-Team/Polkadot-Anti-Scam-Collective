@@ -1,6 +1,6 @@
 TO-DO
 
-- [ ] Background
+- [X] Background
 - [ ] Value proposition and Mandate
 - [ ] Key Tenets of the Anti-Scam Collective
 - [ ] Operational Rules (entry, promotions/demotion, voting, etc)
