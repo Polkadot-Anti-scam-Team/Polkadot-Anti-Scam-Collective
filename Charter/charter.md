@@ -2,7 +2,7 @@ TO-DO
 
 - [X] Background
 - [X] Value proposition and Mandate
-- [ ] Key Tenets of the Anti-Scam Collective
+- [X] Key Tenets of the Anti-Scam Collective
 - [ ] Operational Rules (entry, promotions/demotion, voting, etc)
 - [ ] Summary of Ranks
 - [ ] Details of Individual Rank
@@ -41,11 +41,18 @@ The Anti-scam team collective is tasked with developing mechanisms to objectivel
 
 
 
-
-
-## Key Tenets
+## 3. Key Tenets of the Anti-Scam Collective
+Members are anticipated to dutifully adhere to the established tenets. Any elucidations of the rules should align with and reflect these guiding principles.
+- Prioritize transparent and clear communication with the Polkadot community, providing timely updates on emerging threats, preventive measures, and any actions taken by the anti-scam team.
+- Cultivate collaborations with other security-focused entities, blockchain projects, and cybersecurity experts to establish a united front against scams, sharing insights and strategies for enhanced collective defense.
+- Extend empathetic support to individuals affected by scams, offering resources and guidance for recovery, while working towards the swift resolution of scam-related incidents.
+- Foster a culture of awareness and understanding within the community through educational initiatives, empowering users to recognize and avoid scams independently.
+- Uphold a continuous and vigilant watch over the Polkadot ecosystem to promptly identify and address potential scams, fraud, or deceptive activities.
+- Provide utmost respect to fellow members and the wider community.
+- Respect the structure, rules, and other specifics of the Anti-scam collective.
 
 ## Operational Rules
+
 
 ## Summary of Ranks
 
