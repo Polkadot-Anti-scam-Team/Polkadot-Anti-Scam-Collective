@@ -6,8 +6,6 @@ This repository depicts the goals and value proposition of the Anti-scam collect
 
 ## TO DO
 - [ ] Write Charter 
-- [ ] Member types
-- [ ] Member Management Strategy
 - [ ] Rewards/Salary
 - [ ] Seeding
 - [ ] Special Origins
